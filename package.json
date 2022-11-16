@@ -19,5 +19,8 @@
   "homepage": "https://github.com/art-henry/landingpage-on-bootstrap#readme",
   "devDependencies": {
     "gulp": "^4.0.2"
+  },
+  "dependencies": {
+    "browser-sync": "^2.27.10"
   }
 }
